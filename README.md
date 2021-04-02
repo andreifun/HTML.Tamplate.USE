@@ -10,8 +10,8 @@ A tamplate with kinda good design
 |Images    |   6     |
 |Free SVGs |  16     |
 |Favicon   |  Yes    |
-|JavaScript| No      |
-|Resposive | Yes     |
+|JavaScript|  No     |
+|Resposive |  Yes    |
 
 
 #### The Pages included are
